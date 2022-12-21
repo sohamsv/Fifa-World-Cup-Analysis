@@ -20,4 +20,4 @@ France, Brazil, Mexico, Italy
 14) Highest number of times third place - Germany - 3 times
 15) Highest number of times fourth place - Uruguay - 3 times
 16) Highest number of teams played in a worldcup - 2022 - 32 teams
-17) Least number of teams played in a worlcup - 1930 - 13 teams
+17) Least number of teams played in a worldcup - 1930 - 13 teams
